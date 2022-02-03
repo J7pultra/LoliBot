@@ -1,0 +1,12 @@
+{
+  "name": "Lolibot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Lolibot.js",
+  "scripts": {
+  "start": "Lolibot.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
